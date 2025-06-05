@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "title": "Raththaran Putha (2023)",
+    "quality": [
+      "720p",
+      "1080p"
+    ],
+    "download": {
+      "720p": "https://example.com/raththaran-720p.mp4",
+      "1080p": "https://example.com/raththaran-1080p.mp4"
+    },
+    "cover": "https://example.com/poster.jpg",
+    "description": "Sinhala subtitle movie"
+  },
+  {
+    "id": "2",
+    "title": "Kanchana 3 (2019)",
+    "quality": [
+      "720p"
+    ],
+    "download": {
+      "720p": "https://example.com/kanchana3-720p.mp4"
+    },
+    "cover": "https://example.com/kanchana.jpg",
+    "description": "Comedy horror movie"
+  }
+]
