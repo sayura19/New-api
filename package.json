@@ -1,0 +1,12 @@
+{
+  "name": "gojo-movie-api",
+  "version": "1.0.0",
+  "main": "api/movies.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/movies.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
